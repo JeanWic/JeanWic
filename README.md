@@ -14,7 +14,7 @@
    <img align="right" src="https://media.giphy.com/media/l2rpf7xYqFbdhf0KM2/giphy.gif" />
 <div>
 
-### Studying...
+### 📚 Studying...
 
 ##
 
