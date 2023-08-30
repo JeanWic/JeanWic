@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeanwictor_/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/two9reidelas/)
 
-![JeanWic GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeanic&show_icons=true&theme=tokyonight)
+![JeanWic GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanWic&show_icons=true&theme=tokyonight)
 <div>
    <img align="right" src="https://media.giphy.com/media/l2rpf7xYqFbdhf0KM2/giphy.gif" />
 <div>
